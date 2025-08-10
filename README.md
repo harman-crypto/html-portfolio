@@ -1,1 +1,1 @@
-# html-portfolio
+A simple HTML portfolio showcasing my mini projects — Movie Ranking and Birthday Invitation — with links to an About Me page and a Contact page. Built to practice basic HTML structure, page linking, and image embedding.
